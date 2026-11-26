@@ -5,7 +5,7 @@
 - تعلمت كتابة رسالة Commit واضحة تبدأ بفعل إنجليزي.
 - تعلمت كسر خطأ عمدًا واكتشافه من History.
 - تعلمت قراءة Diff: الأحمر محذوف والأخضر مضاف.
-- تعلمت إنشاء Pul Requst ومراجعة Files changed.
+- تعلمت إنشاء Pull Request ومراجعة Files changed.
 - تعلمت الدمج في main وحذف الفرع بعده.
 - تعلمت أن Revert وRestore branch يسمحان بالتراجع.
 - تعلمت أن رقم # يخص Issue أو Pull Request.
