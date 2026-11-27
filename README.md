@@ -7,7 +7,7 @@
 - تعلمت قراءة Diff: الأحمر محذوف والأخضر مضاف.
 - تعلمت إنشاء Pull Request ومراجعة Files changed.
 - تعلمت الدمج في main وحذف الفرع بعده.
-- تعلمت أن Revret وRestore branch يسمحان بالتراجع.
+- تعلمت أن Revert وRestore branch يسمحان بالتراجع.
 - تعلمت أن رقم # يخص Issue أو Pull Request.
 - تعلمت أن Issue بطاقة مهمة وليست خطأ.
 - تعلمت أن محرر GitHub يكمل القوائم تلقائيًا.
